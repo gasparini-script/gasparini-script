@@ -1,9 +1,11 @@
+<!-- Banner de Fundo Preto e Degradê Roxo de Ponta a Ponta -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:09090B,100:581C87&height=180&section=header&text=Rafael%20Gasparini&fontSize=40&fontColor=FFFFFF&fontAlignY=40&desc=18%20Years%20Old%20%7C%20Software%20Engineering%20Student%20%40%20UniFil&descSize=15&descAlignY=65&descColor=D8B4FE" />
+</p>
+
 <div align="center">
 
-  <!-- Banner Superior Preto e Roxo -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:09090B,100:9333EA&height=140&section=header&text=Rafael%20Gasparini&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=18%20Years%20Old%20%7C%20Software%20Engineering%20Student%20%40%20UniFil&descSize=16&descAlignY=62&descColor=D8B4FE" alt="Header Banner" />
-
-  <br/><br/>
+  <br/>
 
   <!-- Botões Sociais -->
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
@@ -43,7 +45,7 @@
 
   <br/><br/><br/>
 
-  <!-- Dashboard Analytics (Preto e Roxo Total) -->
+  <!-- Dashboard Analytics (Fundo Preto com Detalhes Roxos) -->
   <h3>ANALYTICS DASHBOARD</h3>
   <br/>
 
