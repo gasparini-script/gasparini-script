@@ -1,26 +1,26 @@
 <div align="center">
 
-  <!-- Banner Superior Dark -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=140&section=header&text=Rafael%20Gasparini&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=18%20Years%20Old%20%7C%20Software%20Engineering%20Student%20%40%20UniFil&descSize=16&descAlignY=62&descColor=8B949E" alt="Header Banner" />
-
-  <br/>
-
-  <!-- Botões Sociais Minimalistas -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" height="32" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" height="32" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" height="32" alt="GitHub" />
-  </a>
+  <!-- Banner Superior Preto e Roxo -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:09090B,100:9333EA&height=140&section=header&text=Rafael%20Gasparini&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=18%20Years%20Old%20%7C%20Software%20Engineering%20Student%20%40%20UniFil&descSize=16&descAlignY=62&descColor=D8B4FE" alt="Header Banner" />
 
   <br/><br/>
 
-  <!-- Tech Stack com Ícones Grandes (65px) -->
+  <!-- Botões Sociais -->
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A855F7&color=09090B" height="32" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A855F7&color=09090B" height="32" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=A855F7&color=09090B" height="32" alt="GitHub" />
+  </a>
+
+  <br/><br/><br/>
+
+  <!-- Tech Stack (Ícones Grandes 65px) -->
   <h3>TECH STACK</h3>
   <br/>
   <img src="https://skillicons.dev/icons?i=java&theme=dark" width="65" height="65" alt="Java" />
@@ -43,25 +43,20 @@
 
   <br/><br/><br/>
 
-  <!-- Dashboard Dark Mode Unificado -->
+  <!-- Dashboard Analytics (Preto e Roxo Total) -->
   <h3>ANALYTICS DASHBOARD</h3>
   <br/>
 
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue-dark&hide_border=true&bg_color=000000&title_color=A855F7&icon_color=A855F7&text_color=E4E4E7" alt="GitHub Stats" />
   &nbsp;
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=000000&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=E4E4E7&dates=A1A1AA" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vue-dark&hide_border=true&bg_color=000000&title_color=A855F7&text_color=E4E4E7" alt="Top Languages" />
 
   <br/><br/>
 
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true" alt="Contribution Graph" />
-
-  <br/><br/>
-
-  <!-- Rodapé Dark -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=90&section=footer" alt="Footer Banner" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=A1A1AA&line=A855F7&point=FFFFFF&area=true&area_color=581C87&hide_border=true" alt="Contribution Graph" />
 
 </div>
